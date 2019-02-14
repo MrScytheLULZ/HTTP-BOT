@@ -1,0 +1,46 @@
+ █████╗  ██████╗██╗██████╗     ██╗  ██╗████████╗████████╗██████╗ 
+██╔══██╗██╔════╝██║██╔══██╗    ██║  ██║╚══██╔══╝╚══██╔══╝██╔══██╗
+███████║██║     ██║██║  ██║    ███████║   ██║      ██║   ██████╔╝
+██╔══██║██║     ██║██║  ██║    ██╔══██║   ██║      ██║   ██╔═══╝ 
+██║  ██║╚██████╗██║██████╔╝    ██║  ██║   ██║      ██║   ██║     
+╚═╝  ╚═╝ ╚═════╝╚═╝╚═════╝     ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝
+
+-----------------------------------------------------------------------------------------------------------
+
+
+What is Acid-HTTP?
+=============================================
+
+Acid-HTTP is an opensource HTTP botnet, its a project im working on in my spare time while I'am 
+  attending uni, ill be constantly working on it as I get the time lulz
+  
+/*If you have anything you can recommend me adding to the bot let me know 
+
+Device Supprt
+- Windows 7/8/10
+- Linux (Debian && RedHat)
+- Android Phones
+*/
+
+Features BEING ADDED!!
+=============================================
+[PC's]
+- Coded in C++ with no dependencies
+- Encrypted C&C Communications
+- Persistence to prevent your control being lost
+- Connection Redundancy (Uses a fallback server address or domain )
+- DDoS methods (SYN-FLOOD / UDP-FLOOD / STD / RUDY / DNS-AMP / )
+- Task Creation System ( Altering system HWID,Country,IP,OS.System )
+- Remote Commands
+- Update and Uninstall other malware
+- Download and Execute other malware
+- Active as well as Passive Keylogger
+- Enable Windows RDP
+- Plugin system for easy feature updates
+
+[Phone's]
+- Call-LOG-Dump
+- Log DUMP
+- Camera Remote
+- Msg Log DUMP
+- MIC Remote lol
